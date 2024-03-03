@@ -1,0 +1,50 @@
+Stay Awake?,3.2,Bastille,Future
+Thelma + Louise,3.27,Bastille,Future
+No Bad Days,3.05,Bastille,Future
+Blank Space,3.90,Taylor Swift,1989
+Shake It Off,3.56,Taylor Swift,1989
+Bad Blood,3.5,Taylor Swift,1989
+Wildest Dreams,3.71,Taylor Swift,1989
+22,3.86,Taylor Swift,Red
+I Knew You Were Trouble,3.34,Taylor Swift,Red
+Under Pressure,4.025,Queen,Hot Space
+Cool Cat,3.49,Queen,Hot Space
+You're My Best Friend,2.96,Queen,A Night At The Opera
+Bohemian Rhapsody,5.93,Queen,A Night At The Opera
+Love Of My Life,3.68,Queen,A Night At The Opera
+God Save The Queen,1.25,Queen,A Night At The Opera
+Crazy Little Thing Called Love,2.66,Queen,The Game
+Another One Bites The Dust,3.42,Queen,The Game
+Dreams,4.28,Fleetwood Mac,Rumors
+The Chain,4.5,Fleetwood Mac,Rumors
+Landslide,3.3,Fleetwood Mac,Rumors
+Go YOur Own Way,3.73,Fleetwood Mac,Rumors
+Photograph,4.28,Ed Sheeran,X
+Thinking Out Loud,4.6,Ed Sheeran,X
+Don't,3.6,Ed Sheeran,X
+Sing,3.90,Ed Sheeran,X
+I See Fire,5.00,Ed Sheeran,X
+The A Team,3.28,Ed Sheeran,+
+Lego House,3.05,Ed Sheeran,+
+Shivers,3.1,Ed Sheeran,=
+Bad Habits,3.5,Ed Sheeran,=
+Grenade,3.63,Bruno Mars,Doo-Wops & Hooligans
+Just The Way You Are,3.66,Bruno Mars,Doo-Wops & Hooligans
+Runaway Baby,2.4,Bruno Mars,Doo-Wops & Hooligans
+The Lazy Song,3.15,Bruno Mars,Doo-Wops & Hooligans
+I Feel It Coming,4.5,The Weeknd,Starboy
+Starboy,3.80,The Weeknd,Starboy
+Girls,4.25,The 1975,The 1975
+Chocolate,3.82,The 1975,The 1975
+The City,3.45,The 1975,The 1975
+Hurricane,3.79,Luke Combs,This One's for You Too
+One Number Away,3.76,Luke Combs,This One's for You Too
+Beautiful Crazy,3.15,Luke Combs,This One's for You Too
+She Got The Best of Me,3.15,Luke Combs,This One's for You Too
+Payphone,3.81,Maroon 5,Overexposed
+Harder To Breathe,3.45,Maroon 5,Songs About Jane
+This Love,2.94,Maroon 5,Songs About Jane
+Sunday Morning,4.01,Maroon 5,Songs About Jane
+She Will Be Loved,4.30,Maroon 5,Songs About Jane
+Sugar We're Goin Down,3.83,Fall out Boy,From Under The Cork Tree
+Dance Dance,3.00,Fall out Boy,From Under The Cork Tree
