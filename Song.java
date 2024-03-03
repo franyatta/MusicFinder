@@ -20,6 +20,12 @@ public class Song implements Comparable<Song> {
 		// use Collections.sort on the list for binary search
 		return this.getName().compareTo(other.getName());
 	}
+		
+	@Override
+	public String toString() {
+		String result = "Name: " + name;
+		return result;
+	}
 
 	public String getName() {
 		return name;
