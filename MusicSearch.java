@@ -30,6 +30,11 @@ public class MusicSearch {
 				case 0:
 					System.out.println("Goodbye!");
 					break;
+				case 5:
+					Collections.sort(songs);
+					for (Song s : songs)
+						System.out.println(s);
+					break;
 				default:
 					System.err.println("Error with input");
 				}
